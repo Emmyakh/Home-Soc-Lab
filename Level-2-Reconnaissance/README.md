@@ -51,4 +51,4 @@ index=main EventCode=5156
 
 ## Screenshots
 
-See `/screenshots/` folder for evidence.
+See `screenshots` folder for evidence.
