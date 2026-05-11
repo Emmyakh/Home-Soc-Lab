@@ -54,4 +54,4 @@ index=main EventCode=4625
 
 ## Screenshots
 
-See `/screenshots/` folder for evidence.
+See `screenshots` folder for evidence.
