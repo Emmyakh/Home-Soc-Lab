@@ -56,4 +56,4 @@ Alert thresholds must be carefully tuned:
 
 ## Screenshots
 
-See `/screenshots/` folder for evidence.
+See `screenshots` folder for evidence.
